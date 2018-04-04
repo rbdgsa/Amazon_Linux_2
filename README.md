@@ -1,5 +1,7 @@
 # AWS Amazon Linux 2 Harden
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](/CONTRIBUTING.md)
+
 This Packer AMI Builder creates a new AMI out of the latest Amazon Linux AMI, and also provides a cloudformation template that leverages AWS CodePipeline to 
 orchestrate the entire process. The following areas are covered within this repo
 
